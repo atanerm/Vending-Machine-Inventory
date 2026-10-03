@@ -1,5 +1,5 @@
 # Vending Machine Inventory Tracking System
-This project is a frontend prototype for a vending machine inventory tracking system. 
+This project is a frontend and backend prototype for a vending machine inventory tracking system. 
 It helps users monitor machine stock levels, inspect the products inside each machine, view product availability across machines, and submit feedback about issues.
 
 ## Features
